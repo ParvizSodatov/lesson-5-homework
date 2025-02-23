@@ -590,6 +590,14 @@ video {
   margin-top: 0.25rem;
 }
 
+.mt-\[7\%\] {
+  margin-top: 7%;
+}
+
+.mt-\[5\%\] {
+  margin-top: 5%;
+}
+
 .flex {
   display: flex;
 }
@@ -778,6 +786,14 @@ video {
 }
 
 @media (min-width: 768px) {
+  .md\:mt-\[\] {
+    margin-top: ;
+  }
+
+  .md\:mt-\[2\%\] {
+    margin-top: 2%;
+  }
+
   .md\:block {
     display: block;
   }
